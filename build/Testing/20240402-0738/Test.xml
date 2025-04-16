@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-cc"
+	BuildStamp="20240402-0738-Experimental"
+	Name="quirrell"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="braque"
+	OSRelease="6.1.0-18-amd64"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Debian 6.1.76-1 (2024-02-01)"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="85"
+	ProcessorCacheSize="16896"
+	NumberOfLogicalCPU="48"
+	NumberOfPhysicalCPU="24"
+	TotalVirtualMemory="19535"
+	TotalPhysicalMemory="64037"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="999.966"
+	>
+	<Testing>
+		<StartDateTime>Apr 02 09:38 CEST</StartDateTime>
+		<StartTestTime>1712043529</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 02 09:38 CEST</EndDateTime>
+		<EndTestTime>1712043529</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

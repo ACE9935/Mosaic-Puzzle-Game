@@ -1,0 +1,11 @@
+# fichiers temp
+*~
+*.bak
+*.o
+game_text
+Makefile
+CMakeCache.txt
+
+# cmak files
+CMakeFiles/
+build/

@@ -1,0 +1,547 @@
+Start testing: Mar 31 20:51 CEST
+----------------------------------------------------------
+1/33 Testing: test_aelmouden_dummy
+1/33 Test: test_aelmouden_dummy
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_aelmouden" "dummy"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_aelmouden_dummy" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "dummy" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_aelmouden_dummy" end time: Mar 31 20:51 CEST
+"test_aelmouden_dummy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/33 Testing: test_aelmouden_game_new
+2/33 Test: test_aelmouden_game_new
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_aelmouden" "test_game_new"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_aelmouden_game_new" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_new" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_aelmouden_game_new" end time: Mar 31 20:51 CEST
+"test_aelmouden_game_new" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/33 Testing: test_aelmouden_game_new_empty
+3/33 Test: test_aelmouden_game_new_empty
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_aelmouden" "test_game_new_empty"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_aelmouden_game_new_empty" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_new_empty" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_aelmouden_game_new_empty" end time: Mar 31 20:51 CEST
+"test_aelmouden_game_new_empty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/33 Testing: test_aelmouden_game_copy
+4/33 Test: test_aelmouden_game_copy
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_aelmouden" "test_game_copy"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_aelmouden_game_copy" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_copy" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_aelmouden_game_copy" end time: Mar 31 20:51 CEST
+"test_aelmouden_game_copy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/33 Testing: test_aelmouden_game_equal
+5/33 Test: test_aelmouden_game_equal
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_aelmouden" "test_game_equal"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_aelmouden_game_equal" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_equal" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_aelmouden_game_equal" end time: Mar 31 20:51 CEST
+"test_aelmouden_game_equal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/33 Testing: test_aelmouden_game_delete
+6/33 Test: test_aelmouden_game_delete
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_aelmouden" "test_game_delete"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_aelmouden_game_delete" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_aelmouden_game_delete" finished: FAILURE
+Test "test_game_delete" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_aelmouden_game_delete" end time: Mar 31 20:51 CEST
+"test_aelmouden_game_delete" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/33 Testing: test_aelmouden_game_solve
+7/33 Test: test_aelmouden_game_solve
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_aelmouden" "test_game_solve"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_aelmouden_game_solve" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Invalid argument or test name unknown
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"test_aelmouden_game_solve" end time: Mar 31 20:51 CEST
+"test_aelmouden_game_solve" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/33 Testing: test_mrabih_dummy
+8/33 Test: test_mrabih_dummy
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_mrabih" "dummy"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_mrabih_dummy" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "dummy" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_mrabih_dummy" end time: Mar 31 20:51 CEST
+"test_mrabih_dummy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/33 Testing: test_mrabih_game_default
+9/33 Test: test_mrabih_game_default
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_mrabih" "test_game_default"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_mrabih_game_default" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_default" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_mrabih_game_default" end time: Mar 31 20:51 CEST
+"test_mrabih_game_default" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/33 Testing: test_mrabih_game_default_solution
+10/33 Test: test_mrabih_game_default_solution
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_mrabih" "test_game_default_solution"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_mrabih_game_default_solution" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_default_solution" finished: SUCCESS
+     0 1 2 3 4 
+     ----------
+  0 |🄋 □ ■ ➂ □ |
+  1 |□ ➄ ■ □ ■ |
+  2 |■ ■ ❹ □ ➀ |
+  3 |❻ ■ ➅ ➂ □ |
+  4 |■ ■ ■ ■ □ |
+     ----------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_mrabih_game_default_solution" end time: Mar 31 20:51 CEST
+"test_mrabih_game_default_solution" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/33 Testing: test_mrabih_game_print
+11/33 Test: test_mrabih_game_print
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_mrabih" "test_game_print"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_mrabih_game_print" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_print" finished: SUCCESS
+     0 1 2 3 4 
+     ----------
+  0 |0     3   |
+  1 |  5       |
+  2 |    4   1 |
+  3 |6   6 3   |
+  4 |          |
+     ----------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_mrabih_game_print" end time: Mar 31 20:51 CEST
+"test_mrabih_game_print" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/33 Testing: test_mrabih_game_set_constraint
+12/33 Test: test_mrabih_game_set_constraint
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_mrabih" "test_game_set_constraint"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_mrabih_game_set_constraint" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_set_constraint" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_mrabih_game_set_constraint" end time: Mar 31 20:51 CEST
+"test_mrabih_game_set_constraint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/33 Testing: test_mrabih_game_set_color
+13/33 Test: test_mrabih_game_set_color
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_mrabih" "test_game_set_color"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_mrabih_game_set_color" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_set_color" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_mrabih_game_set_color" end time: Mar 31 20:51 CEST
+"test_mrabih_game_set_color" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/33 Testing: test_mrabih_game_get_constraint
+14/33 Test: test_mrabih_game_get_constraint
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_mrabih" "test_game_get_constraint"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_mrabih_game_get_constraint" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_get_constraint" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_mrabih_game_get_constraint" end time: Mar 31 20:51 CEST
+"test_mrabih_game_get_constraint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/33 Testing: test_mrabih_game_get_color
+15/33 Test: test_mrabih_game_get_color
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_mrabih" "test_game_get_color"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_mrabih_game_get_color" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_get_color" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_mrabih_game_get_color" end time: Mar 31 20:51 CEST
+"test_mrabih_game_get_color" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/33 Testing: test_mrabih_game_get_next_square
+16/33 Test: test_mrabih_game_get_next_square
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_mrabih" "test_game_get_next_square"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_mrabih_game_get_next_square" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+game_test_mrabih: /autofs/unityaccount/cremi/imohammi/mosaic-b10/game.c:202: game_get_next_square: Assertion `pi_next != NULL && pj_next != NULL' failed.
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Failed.
+"test_mrabih_game_get_next_square" end time: Mar 31 20:51 CEST
+"test_mrabih_game_get_next_square" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/33 Testing: test_mrabih_game_save
+17/33 Test: test_mrabih_game_save
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_mrabih" "test_game_save"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_mrabih_game_save" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_save" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_mrabih_game_save" end time: Mar 31 20:51 CEST
+"test_mrabih_game_save" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/33 Testing: test_imohammi_dummy
+18/33 Test: test_imohammi_dummy
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "dummy"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_dummy" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_dummy" end time: Mar 31 20:51 CEST
+"test_imohammi_dummy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/33 Testing: test_imohammi_game_set_color
+19/33 Test: test_imohammi_game_set_color
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_set_color"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_set_color" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_set_color" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_set_color" end time: Mar 31 20:51 CEST
+"test_imohammi_game_set_color" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/33 Testing: test_imohammi_game_get_status
+20/33 Test: test_imohammi_game_get_status
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_get_status"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_get_status" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_get_status" finished: FAILURE
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Failed.
+"test_imohammi_game_get_status" end time: Mar 31 20:51 CEST
+"test_imohammi_game_get_status" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/33 Testing: test_imohammi_game_nb_neighbors
+21/33 Test: test_imohammi_game_nb_neighbors
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_nb_neighbors"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_nb_neighbors" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_nb_neighbors" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_nb_neighbors" end time: Mar 31 20:51 CEST
+"test_imohammi_game_nb_neighbors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/33 Testing: test_imohammi_game_play_move
+22/33 Test: test_imohammi_game_play_move
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_play_move"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_play_move" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_play_move" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_play_move" end time: Mar 31 20:51 CEST
+"test_imohammi_game_play_move" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/33 Testing: test_imohammi_game_won
+23/33 Test: test_imohammi_game_won
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_won"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_won" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_won" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_won" end time: Mar 31 20:51 CEST
+"test_imohammi_game_won" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/33 Testing: test_imohammi_game_restart
+24/33 Test: test_imohammi_game_restart
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_restart"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_restart" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_restart" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_restart" end time: Mar 31 20:51 CEST
+"test_imohammi_game_restart" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/33 Testing: test_imohammi_game_new_ext
+25/33 Test: test_imohammi_game_new_ext
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_new_ext"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_new_ext" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_new_ext" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_new_ext" end time: Mar 31 20:51 CEST
+"test_imohammi_game_new_ext" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/33 Testing: test_imohammi_game_new_empty_ext
+26/33 Test: test_imohammi_game_new_empty_ext
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_new_empty_ext"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_new_empty_ext" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_new_empty_ext" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_new_empty_ext" end time: Mar 31 20:51 CEST
+"test_imohammi_game_new_empty_ext" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/33 Testing: test_imohammi_game_nb_rows
+27/33 Test: test_imohammi_game_nb_rows
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_nb_rows"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_nb_rows" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_nb_rows" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_nb_rows" end time: Mar 31 20:51 CEST
+"test_imohammi_game_nb_rows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/33 Testing: test_imohammi_game_nb_cols
+28/33 Test: test_imohammi_game_nb_cols
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_nb_cols"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_nb_cols" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_nb_cols" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_nb_cols" end time: Mar 31 20:51 CEST
+"test_imohammi_game_nb_cols" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/33 Testing: test_imohammi_game_is_wrapping
+29/33 Test: test_imohammi_game_is_wrapping
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_is_wrapping"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_is_wrapping" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_is_wrapping" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_is_wrapping" end time: Mar 31 20:51 CEST
+"test_imohammi_game_is_wrapping" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/33 Testing: test_imohammi_game_get_neighbourhood
+30/33 Test: test_imohammi_game_get_neighbourhood
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_get_neighbourhood"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_get_neighbourhood" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_get_neighbourhood" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_get_neighbourhood" end time: Mar 31 20:51 CEST
+"test_imohammi_game_get_neighbourhood" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/33 Testing: test_imohammi_game_undo
+31/33 Test: test_imohammi_game_undo
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_undo"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_undo" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_undo" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_undo" end time: Mar 31 20:51 CEST
+"test_imohammi_game_undo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/33 Testing: test_imohammi_game_redo
+32/33 Test: test_imohammi_game_redo
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_redo"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_redo" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_redo" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_redo" end time: Mar 31 20:51 CEST
+"test_imohammi_game_redo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/33 Testing: test_imohammi_game_load
+33/33 Test: test_imohammi_game_load
+Command: "/autofs/unityaccount/cremi/imohammi/mosaic-b10/build/game_test_imohammi" "test_game_load"
+Directory: /autofs/unityaccount/cremi/imohammi/mosaic-b10/build
+"test_imohammi_game_load" start time: Mar 31 20:51 CEST
+Output:
+----------------------------------------------------------
+Test "test_game_load" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_imohammi_game_load" end time: Mar 31 20:51 CEST
+"test_imohammi_game_load" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 31 20:51 CEST
