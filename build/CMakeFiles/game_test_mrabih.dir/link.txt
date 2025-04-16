@@ -1,1 +1,0 @@
-gcc -std=c99 -Wall --coverage -rdynamic CMakeFiles/game_test_mrabih.dir/game_test_mrabih.c.o -o game_test_mrabih  libgame.a 
